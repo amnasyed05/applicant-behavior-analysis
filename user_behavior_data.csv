@@ -1,0 +1,51 @@
+USER ID,LANDING PAGE,CLICKED APPLY,STARTED FORM,UPLOADED RESUME,SUBMITTED APPLICATION,EXIT POINT
+1,1,1,1,1,1,Completed
+2,1,1,1,1,1,Completed
+3,1,1,1,0,0,Exited during Resume Upload
+4,1,1,0,0,0,Exited during Application Form
+5,1,0,0,0,0,Exited after Landing Page
+6,1,1,1,0,0,Exited during Resume Upload
+7,1,0,0,0,0,Exited after Landing Page
+8,1,0,0,0,0,Exited after Landing Page
+9,1,0,0,0,0,Exited after Landing Page
+10,1,1,1,0,0,Exited during Resume Upload
+11,1,1,1,1,0,Exited after Resume Upload
+12,1,1,0,0,0,Exited during Application Form
+13,1,0,0,0,0,Exited after Landing Page
+14,1,1,1,1,1,Completed
+15,1,1,1,1,1,Completed
+16,1,1,1,0,0,Exited during Resume Upload
+17,1,0,0,0,0,Exited after Landing Page
+18,1,1,1,1,1,Completed
+19,1,0,0,0,0,Exited after Landing Page
+20,1,1,1,1,1,Completed
+21,1,1,1,1,0,Exited after Resume Upload
+22,1,1,1,1,1,Completed
+23,1,1,1,0,0,Exited during Resume Upload
+24,1,1,0,0,0,Exited during Application Form
+25,1,1,0,0,0,Exited during Application Form
+26,1,1,1,0,0,Exited during Resume Upload
+27,1,1,1,1,1,Completed
+28,1,1,1,0,0,Exited during Resume Upload
+29,1,1,0,0,0,Exited during Application Form
+30,1,1,1,0,0,Exited during Resume Upload
+31,1,1,0,0,0,Exited during Application Form
+32,1,0,0,0,0,Exited after Landing Page
+33,1,1,0,0,0,Exited during Application Form
+34,1,1,1,1,1,Completed
+35,1,0,0,0,0,Exited after Landing Page
+36,1,0,0,0,0,Exited after Landing Page
+37,1,0,0,0,0,Exited after Landing Page
+38,1,1,1,0,0,Exited during Resume Upload
+39,1,1,1,0,0,Exited during Resume Upload
+40,1,0,0,0,0,Exited after Landing Page
+41,1,1,0,0,0,Exited during Application Form
+42,1,1,1,0,0,Exited during Resume Upload
+43,1,1,1,1,1,Completed
+44,1,1,1,1,1,Completed
+45,1,1,0,0,0,Exited during Application Form
+46,1,1,0,0,0,Exited during Application Form
+47,1,1,1,0,0,Exited during Resume Upload
+48,1,0,0,0,0,Exited after Landing Page
+49,1,0,0,0,0,Exited after Landing Page
+50,1,1,0,0,0,Exited during Application Form
